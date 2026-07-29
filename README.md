@@ -12,6 +12,10 @@ The table [overview.md](overview.md) summarizes the number of presentations per 
 
 In folder [output/](./output/) you find the compressed data, both as flat files and as nested json.
 
+## Organizer coauthorship extension (2020–2026)
+
+See [`organizer_coauthorship/`](organizer_coauthorship/) for an extension that measures how often Summer Institute papers list a program-year organizer as an author, combining this archive (2000–2019) with scraped NBER printable agendas (2020–2026), including figures and organizer-level frequency tables.
+
 ## What's the benefit?
 - No need to deal with broken and differently formatted html.
 - Affiliations cleaned.

@@ -105,3 +105,6 @@ venv.bak/
 
 # Windows
 .DS_Store
+
+# Regenerable agenda HTML cache
+organizer_coauthorship/cache/

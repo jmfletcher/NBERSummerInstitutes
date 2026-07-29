@@ -1,0 +1,56 @@
+﻿program_code,program_name,program_years_captured,papers_total,papers_coauthored_by_organizer,weighted_organizer_share,unweighted_mean_program_share
+EFMB,Macro Within and Across Borders,7,39,5,0.1282051282051282,0.11904761904761904
+PE,Public Economics,7,79,10,0.12658227848101267,0.1266233766233766
+LS,Labor Studies,7,177,16,0.0903954802259887,0.09077020927346538
+EH,Economics of Health,4,65,4,0.06153846153846154,0.062076914098972924
+AG,Aging,7,99,5,0.050505050505050504,0.04656862745098039
+EFBEM,Behavioral Macro,7,40,2,0.05,0.047619047619047616
+EFG,Economic Growth,7,84,4,0.047619047619047616,0.047619047619047616
+REAL,Real Estate,7,116,5,0.04310344827586207,0.04421768707482993
+EFMM,Micro Data and Macro Models,7,96,4,0.041666666666666664,0.04265873015873016
+DEV,Development Economics,7,121,5,0.04132231404958678,0.03889626025848936
+HC,Health Care,3,26,1,0.038461538461538464,0.030303030303030304
+EEE,Environmental & Energy Economics,7,134,5,0.03731343283582089,0.0353937622479822
+HE,Health Economics,3,27,1,0.037037037037037035,0.047619047619047616
+CRI,Economics of Crime,7,87,3,0.034482758620689655,0.03571428571428571
+ED,Economics of Education,7,60,2,0.03333333333333333,0.041666666666666664
+PPL,Personnel Economics,7,97,3,0.030927835051546393,0.029251700680272108
+PRIT,IT and Digitization,7,196,6,0.030612244897959183,0.03144918639909623
+ITI,International Trade & Investment,7,99,3,0.030303030303030304,0.02380952380952381
+IFMDS,IFM Data Sources,7,34,1,0.029411764705882353,0.028571428571428574
+EFMPL,Macro Perspectives,7,111,3,0.02702702702702703,0.027777777777777773
+SIP,Science of Science Funding,7,78,2,0.02564102564102564,0.024489795918367346
+CF,Corporate Finance,7,86,2,0.023255813953488372,0.017857142857142856
+EFEG,EFG Program Meeting,7,47,1,0.02127659574468085,0.011904761904761904
+MPF,Macro Public Finance,7,50,1,0.02,0.017857142857142856
+HF,Household Finance,7,101,2,0.019801980198019802,0.01845238095238095
+ENT,Entrepreneurship,7,58,1,0.017241379310344827,0.023809523809523808
+DAE,Development of the American Economy,7,203,3,0.014778325123152709,0.013824884792626727
+EFFE,Forecasting and Empirical Methods,6,88,1,0.011363636363636364,0.010416666666666666
+GE,Gender in the Economy,6,96,1,0.010416666666666666,0.00980392156862745
+CRIW,Conference on Research in Income and Wealth,7,108,1,0.009259259259259259,0.008928571428571428
+CH,Children,7,142,1,0.007042253521126761,0.005952380952380952
+URB,Urban Economics,7,186,1,0.005376344086021506,0.006493506493506494
+AP,Asset Pricing,7,95,0,0.0,0.0
+DEM,Dynamic Equilibrium Models,6,48,0,0.0,0.0
+EFDIS,Income Distribution and Macroeconomics,7,69,0,0.0,0.0
+EFEL,Capital Markets and the Economy,7,83,0,0.0,0.0
+EM,Frontier Econometric Methods,2,12,0,0.0,0.0
+FMS,Financial Market Structure,1,6,0,0.0,0.0
+HPC,Big Data and High-Performance Computing,5,48,0,0.0,0.0
+IAP,International Asset Pricing,3,25,0,0.0,0.0
+IEG,International Economics and Geopolitics,3,20,0,0.0,0.0
+IFM,International Finance & Macroeconomics,7,77,0,0.0,0.0
+IO,Industrial Organization,7,81,0,0.0,0.0
+IPM,Impulse and Propagation Mechanisms,7,137,0,0.0,0.0
+ITM,International Trade & Macroeconomics,7,28,0,0.0,0.0
+LE,Law and Economics,7,55,0,0.0,0.0
+ME,Monetary Economics,7,127,0,0.0,0.0
+MEFM,"Macro, Money and Financial Markets",7,67,0,0.0,0.0
+PENS,Economics of National Security,4,25,0,0.0,0.0
+PESS,Economics of Social Security,7,44,0,0.0,0.0
+POL,Political Economy,7,72,0,0.0,0.0
+PRINN,Innovation,7,71,0,0.0,0.0
+PRMP,Macroeconomics and Productivity,7,49,0,0.0,0.0
+PRPD,"Productivity, Development, and Entrepreneurship",2,11,0,0.0,0.0
+RISK,Risks of Financial Institutions,4,42,0,0.0,0.0

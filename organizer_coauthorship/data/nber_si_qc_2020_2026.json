@@ -1,0 +1,24 @@
+{
+  "built_at_utc": "2026-07-29T20:00:32.437462+00:00",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "in_scope_program_years": 342,
+  "captured_program_years": 339,
+  "coverage": 0.9912280701754386,
+  "papers_included": 4322,
+  "author_rows": 12470,
+  "organizer_coauthored_papers": 105,
+  "weighted_organizer_share": 0.024294308190652477,
+  "non_exact_name_matches": 0,
+  "duplicate_listings_collapsed": 7,
+  "source_printable_pattern": "https://conference.nber.org/agenda/simple_printable?conf_id=SI{YY}{CODE}",
+  "organizer_roster_source": "/Users/jmfletcher/Downloads/nber_si_program_year_coverage_2020_2026.csv",
+  "measure": "distinct papers with at least one program-year organizer among authors / distinct included papers"
+}
