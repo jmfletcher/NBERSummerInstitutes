@@ -27,13 +27,6 @@ year,program_code,program_name,papers_total,papers_with_program_year_organizer,s
 2024,EEE,Environmental & Energy Economics,61.0,3.0,0.04918032786885246,3
 2025,EEE,Environmental & Energy Economics,55.0,3.0,0.05454545454545454,3
 2026,EEE,Environmental & Energy Economics,35.0,1.0,0.02857142857142857,2
-2020,EFG,Economic Growth and Long-Run Macroeconomic Development,24.0,1.0,0.041666666666666664,2
-2021,EFG,Economic Growth and Long-Run Macroeconomic Development,36.0,2.0,0.05555555555555555,3
-2022,EFG,Economic Growth and Long-Run Macroeconomic Development,36.0,2.0,0.05555555555555555,3
-2023,EFG,Economic Growth and Long-Run Macroeconomic Development,36.0,3.0,0.08333333333333333,3
-2024,EFG,Economic Growth and Long-Run Macroeconomic Development,36.0,2.0,0.05555555555555555,3
-2025,EFG,Economic Growth and Long-Run Macroeconomic Development,36.0,1.0,0.027777777777777776,3
-2026,EFG,Economic Growth and Long-Run Macroeconomic Development,24.0,0.0,0.0,2
 2020,EFMM,Micro Data and Macro Models,16.0,1.0,0.0625,2
 2021,EFMM,Micro Data and Macro Models,32.0,2.0,0.0625,3
 2022,EFMM,Micro Data and Macro Models,41.0,2.0,0.04878048780487805,3
@@ -48,6 +41,13 @@ year,program_code,program_name,papers_total,papers_with_program_year_organizer,s
 2024,EFMPL,Aggregate Labor Market,54.0,1.0,0.018518518518518517,3
 2025,EFMPL,Aggregate Labor Market,54.0,1.0,0.018518518518518517,3
 2026,EFMPL,Aggregate Labor Market,36.0,1.0,0.027777777777777776,2
+2023,EH,Economics of Health,30.0,2.0,0.06666666666666667,2
+2024,EH,Economics of Health,47.0,3.0,0.06382978723404255,3
+2025,EH,Economics of Health,51.0,3.0,0.058823529411764705,3
+2026,EH,Economics of Health,35.0,2.0,0.05714285714285714,2
+2020,HC,Health Care,15.0,0.0,0.0,2
+2021,HC,Health Care,26.0,1.0,0.038461538461538464,3
+2022,HC,Health Care,19.0,1.0,0.05263157894736842,2
 2020,HF,Household Finance,24.0,0.0,0.0,2
 2021,HF,Household Finance,39.0,0.0,0.0,3
 2022,HF,Household Finance,46.0,1.0,0.021739130434782608,3
@@ -90,10 +90,3 @@ year,program_code,program_name,papers_total,papers_with_program_year_organizer,s
 2024,REAL,Real Estate,52.0,1.0,0.019230769230769232,3
 2025,REAL,Real Estate,51.0,1.0,0.0196078431372549,3
 2026,REAL,Real Estate,34.0,1.0,0.029411764705882353,2
-2020,SIP,Science of Science Funding,12.0,0.0,0.0,2
-2021,SIP,Science of Science Funding,24.0,0.0,0.0,3
-2022,SIP,Science of Science Funding,29.0,1.0,0.034482758620689655,3
-2023,SIP,Science of Science Funding,38.0,1.0,0.02631578947368421,3
-2024,SIP,Science of Science Funding,40.0,1.0,0.025,3
-2025,SIP,Science of Science Funding,44.0,1.0,0.022727272727272728,3
-2026,SIP,Science of Science Funding,28.0,1.0,0.03571428571428571,2

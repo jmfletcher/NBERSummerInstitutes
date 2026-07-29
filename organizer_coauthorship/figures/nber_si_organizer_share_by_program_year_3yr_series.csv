@@ -141,26 +141,6 @@ year,program_code,program_name,papers_total,papers_with_program_year_organizer,s
 2015,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,60.0,1.0,0.016666666666666666,3
 2016,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,62.0,3.0,0.04838709677419355,3
 2017,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,42.0,3.0,0.07142857142857142,2
-2000,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,32.0,0.0,0.0,2
-2001,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,49.0,1.0,0.02040816326530612,3
-2002,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,49.0,1.0,0.02040816326530612,3
-2003,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,49.0,2.0,0.04081632653061224,3
-2004,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,47.0,2.0,0.0425531914893617,3
-2005,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,47.0,3.0,0.06382978723404255,3
-2006,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,45.0,2.0,0.044444444444444446,3
-2007,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,45.0,2.0,0.044444444444444446,3
-2008,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,45.0,2.0,0.044444444444444446,3
-2009,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,45.0,4.0,0.08888888888888889,3
-2010,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,45.0,3.0,0.06666666666666667,3
-2011,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,45.0,2.0,0.044444444444444446,3
-2012,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,42.0,0.0,0.0,3
-2013,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,42.0,0.0,0.0,3
-2014,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,42.0,1.0,0.023809523809523808,3
-2015,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,44.0,1.0,0.022727272727272728,3
-2016,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,44.0,1.0,0.022727272727272728,3
-2017,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,44.0,0.0,0.0,3
-2018,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,45.0,0.0,0.0,3
-2019,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,30.0,0.0,0.0,2
 2000,EFDIS,Inequality and the Macroeconomy,31.0,5.0,0.16129032258064516,2
 2001,EFDIS,Inequality and the Macroeconomy,46.0,8.0,0.17391304347826086,3
 2002,EFDIS,Inequality and the Macroeconomy,46.0,6.0,0.13043478260869565,3
@@ -241,6 +221,10 @@ year,program_code,program_name,papers_total,papers_with_program_year_organizer,s
 2024,EFMPL,Aggregate Labor Market,54.0,1.0,0.018518518518518517,3
 2025,EFMPL,Aggregate Labor Market,54.0,1.0,0.018518518518518517,3
 2026,EFMPL,Aggregate Labor Market,36.0,1.0,0.027777777777777776,2
+2023,EH,Economics of Health,30.0,2.0,0.06666666666666667,2
+2024,EH,Economics of Health,47.0,3.0,0.06382978723404255,3
+2025,EH,Economics of Health,51.0,3.0,0.058823529411764705,3
+2026,EH,Economics of Health,35.0,2.0,0.05714285714285714,2
 2000,HC,Health Care,22.0,0.0,0.0,2
 2001,HC,Health Care,32.0,1.0,0.03125,3
 2002,HC,Health Care,31.0,1.0,0.03225806451612903,3
@@ -263,31 +247,28 @@ year,program_code,program_name,papers_total,papers_with_program_year_organizer,s
 2020,HC,Health Care,27.0,1.0,0.037037037037037035,3
 2021,HC,Health Care,26.0,1.0,0.038461538461538464,3
 2022,HC,Health Care,19.0,1.0,0.05263157894736842,2
-2002,PPL,Personnel Economics,23.0,1.0,0.043478260869565216,2
-2003,PPL,Personnel Economics,42.0,1.0,0.023809523809523808,3
-2004,PPL,Personnel Economics,41.0,2.0,0.04878048780487805,3
-2005,PPL,Personnel Economics,38.0,2.0,0.05263157894736842,3
-2006,PPL,Personnel Economics,29.0,2.0,0.06896551724137931,3
-2007,PPL,Personnel Economics,30.0,1.0,0.03333333333333333,3
-2008,PPL,Personnel Economics,30.0,0.0,0.0,3
-2009,PPL,Personnel Economics,31.0,1.0,0.03225806451612903,3
-2010,PPL,Personnel Economics,31.0,2.0,0.06451612903225806,3
-2011,PPL,Personnel Economics,32.0,2.0,0.0625,3
-2012,PPL,Personnel Economics,32.0,1.0,0.03125,3
-2013,PPL,Personnel Economics,31.0,0.0,0.0,3
-2014,PPL,Personnel Economics,30.0,0.0,0.0,3
-2015,PPL,Personnel Economics,30.0,0.0,0.0,3
-2016,PPL,Personnel Economics,31.0,0.0,0.0,3
-2017,PPL,Personnel Economics,33.0,0.0,0.0,3
-2018,PPL,Personnel Economics,31.0,0.0,0.0,3
-2019,PPL,Personnel Economics,30.0,0.0,0.0,3
-2020,PPL,Personnel Economics,32.0,0.0,0.0,3
-2021,PPL,Personnel Economics,38.0,1.0,0.02631578947368421,3
-2022,PPL,Personnel Economics,44.0,2.0,0.045454545454545456,3
-2023,PPL,Personnel Economics,44.0,2.0,0.045454545454545456,3
-2024,PPL,Personnel Economics,45.0,1.0,0.022222222222222223,3
-2025,PPL,Personnel Economics,44.0,1.0,0.022727272727272728,3
-2026,PPL,Personnel Economics,30.0,1.0,0.03333333333333333,2
+2000,PE,Public Economics,6.0,1.0,0.16666666666666666,1
+2005,PE,Public Economics,12.0,1.0,0.08333333333333333,2
+2006,PE,Public Economics,18.0,1.0,0.05555555555555555,3
+2007,PE,Public Economics,18.0,0.0,0.0,3
+2008,PE,Public Economics,12.0,0.0,0.0,2
+2010,PE,Public Economics,18.0,3.0,0.16666666666666666,2
+2011,PE,Public Economics,26.0,4.0,0.15384615384615385,3
+2012,PE,Public Economics,28.0,3.0,0.10714285714285714,3
+2013,PE,Public Economics,26.0,1.0,0.038461538461538464,3
+2014,PE,Public Economics,27.0,0.0,0.0,3
+2015,PE,Public Economics,29.0,1.0,0.034482758620689655,3
+2016,PE,Public Economics,29.0,1.0,0.034482758620689655,3
+2017,PE,Public Economics,29.0,3.0,0.10344827586206896,3
+2018,PE,Public Economics,29.0,4.0,0.13793103448275862,3
+2019,PE,Public Economics,32.0,7.0,0.21875,3
+2020,PE,Public Economics,35.0,5.0,0.14285714285714285,3
+2021,PE,Public Economics,35.0,3.0,0.08571428571428572,3
+2022,PE,Public Economics,34.0,2.0,0.058823529411764705,3
+2023,PE,Public Economics,33.0,4.0,0.12121212121212122,3
+2024,PE,Public Economics,33.0,6.0,0.18181818181818182,3
+2025,PE,Public Economics,33.0,5.0,0.15151515151515152,3
+2026,PE,Public Economics,22.0,3.0,0.13636363636363635,2
 2009,PRIT,Digital Economics and Artificial Intelligence,12.0,0.0,0.0,2
 2010,PRIT,Digital Economics and Artificial Intelligence,29.0,1.0,0.034482758620689655,3
 2011,PRIT,Digital Economics and Artificial Intelligence,40.0,3.0,0.075,3

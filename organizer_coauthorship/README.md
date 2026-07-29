@@ -1,15 +1,15 @@
 # NBER SI organizer coauthorship (Substack)
 
-Short descriptive post: how often Summer Institute papers list a program-year organizer as an author.
+Short descriptive post: how often Summer Institute papers list a program-year organizer as an author. **Posted on Substack** (draft text kept in `NBER_SI_Organizer_Coauthors_Substack_Draft.md`).
 
 ## Folder contents
 
 | Path | What it is |
 |------|------------|
-| `NBER_SI_Organizer_Coauthors_Substack_Draft.md` | Substack draft |
+| `NBER_SI_Organizer_Coauthors_Substack_Draft.md` | Posted Substack text (local copy) |
 | `build_nber_si_2020_2025.py` | Scrape + measure pipeline for 2020–2026 |
 | `data/` | Output CSVs, QC JSON, conf_id overrides |
-| `cache/agendas/` | Cached printable HTML |
+| `cache/agendas/` | Cached printable HTML (not in git) |
 | `figures/` | Annual-by-program charts + weighted average |
 
 ## Headline results
@@ -41,10 +41,10 @@ Program colors are stable across all charts (`figures/nber_si_program_colors.csv
 | `figures/nber_si_organizer_share_by_program_*_filtered.png` | Omits programs with share &lt;5% in ≥80% of years |
 | `figures/nber_si_organizer_share_by_program_*_3yr.png` | Centered 3-year paper-weighted averages |
 | `figures/nber_si_top5_programs_*.png` | Top 5 **large** programs by paper-weighted share |
+| `figures/nber_si_health_programs_organizer_share*.png` | HE / HC / EH (annual and 3-year) |
 | `figures/nber_si_weighted_average_by_year.csv` | Annual weighted-average series |
 
-Large-program floor for top-5: ≥150 papers & ≥8 years (2000–2026); ≥70 papers & ≥5 years (2020–2026).
-
+Filtered/3-year legends force-include **PE** (and a few other priority programs) so mid-sized high-share series are not dropped by the paper-count cap.
 ```bash
 python3 figures/plot_organizer_share_by_program.py
 ```

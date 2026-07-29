@@ -67,6 +67,28 @@ def colors_for(codes: list[str], color_map: dict[str, str]) -> dict[str, str]:
     return {c: color_map[c] for c in codes if c in color_map}
 
 
+# Force-include when they pass the share filter (else mid-sized high-share
+# programs like PE get cut by the paper-count legend cap).
+PRIORITY_PLOT_CODES = ["PE", "LS", "REAL", "AG", "HC", "EH"]
+
+
+def select_plot_codes(
+    keep_ordered: list[str],
+    *,
+    max_legend: int = 14,
+    priority: list[str] | None = None,
+) -> list[str]:
+    """Largest keepers, plus priority programs that passed the filter."""
+    priority = priority or PRIORITY_PLOT_CODES
+    keep_set = set(keep_ordered)
+    must = [c for c in priority if c in keep_set]
+    rest = [c for c in keep_ordered if c not in must]
+    n_rest = max(0, max_legend - len(must))
+    chosen = must + rest[:n_rest]
+    rank = {c: i for i, c in enumerate(keep_ordered)}
+    return sorted(chosen, key=lambda c: rank[c])
+
+
 def load_old_program_year() -> pd.DataFrame:
     if OLD_CSV.exists():
         return pd.read_csv(OLD_CSV)
@@ -274,8 +296,8 @@ def make_filtered_figure(
         .sort_values("papers", ascending=False)["program_code"]
         .tolist()
     )
-    # Among programs that pass the filter, plot only the largest for readability
-    plot_codes = keep_ordered[:max_legend]
+    # Among programs that pass the filter, plot largest + priority (e.g. PE)
+    plot_codes = select_plot_codes(keep_ordered, max_legend=max_legend)
     colors = colors_for(plot_codes, color_map)
 
     plotted = sub[sub["program_code"].isin(plot_codes)]
@@ -409,7 +431,7 @@ def make_filtered_3yr_figure(
         .sort_values("papers", ascending=False)["program_code"]
         .tolist()
     )
-    plot_codes = keep_ordered[:max_legend]
+    plot_codes = select_plot_codes(keep_ordered, max_legend=max_legend)
     colors = colors_for(plot_codes, color_map)
 
     smooth = three_year_program_averages(sub)
