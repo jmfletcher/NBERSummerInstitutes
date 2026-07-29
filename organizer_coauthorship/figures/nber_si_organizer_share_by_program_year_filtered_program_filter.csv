@@ -1,0 +1,88 @@
+program_code,papers,years,mean_share,max_share,pct_below,name,is_low,plotted,passes_filter
+LS,807.0,27,0.03511007524218302,0.2413793103448276,0.8148148148148148,Labor Studies,True,False,False
+DAE,644.0,27,0.032292210585389176,0.1428571428571428,0.7777777777777778,Development of the American Economy,False,True,True
+AG,591.0,27,0.04305985168398876,0.2,0.7407407407407407,Aging,False,True,True
+EFMPL,495.0,27,0.06221996214368448,0.2222222222222222,0.25925925925925924,Aggregate Labor Market,False,True,True
+CRIW,409.0,27,0.07234877337431515,0.1818181818181818,0.2962962962962963,Conference on Research in Income and Wealth,False,True,True
+ITI,409.0,27,0.010699588477366248,0.1,0.8518518518518519,International Trade & Investment,True,False,False
+ME,399.0,27,0.001851851851851852,0.05,0.9629629629629629,Monetary Economics,True,False,False
+EFDIS,383.0,27,0.061528685548293376,0.2,0.4444444444444444,Inequality and the Macroeconomy,False,True,True
+PRIT,381.0,18,0.035041215397552866,0.1176470588235294,0.7222222222222222,Digital Economics and Artificial Intelligence,False,True,True
+EFFE,358.0,26,0.020375457875457872,0.0833333333333333,0.7307692307692307,Forecasting and Empirical Methods,False,True,True
+IFM,336.0,27,0.00383141762452107,0.1034482758620689,0.9629629629629629,International Finance & Macroeconomics,True,False,False
+CF,335.0,27,0.007716049382716049,0.125,0.9259259259259259,Corporate Finance,True,False,False
+EFACR,324.0,18,0.08425894281157438,0.2,0.2777777777777778,Aggregate Implications of Microeconomic Consumption Behavior,False,True,True
+LE,321.0,27,0.018416164103859472,0.125,0.8518518518518519,Law and Economics,True,False,False
+CH,318.0,24,0.023926767676767668,0.1666666666666666,0.7916666666666666,Children and Families,False,True,True
+EFEL,312.0,26,0.015515734265734262,0.0909090909090909,0.8076923076923077,Capital Markets and the Economy,True,False,False
+EEE,311.0,19,0.04529702361173621,0.1538461538461538,0.5263157894736842,Environmental & Energy Economics,False,True,True
+AP,304.0,27,0.0030864197530864187,0.0833333333333333,0.9629629629629629,Asset Pricing,True,False,False
+EFCE,302.0,20,0.029215686274509784,0.1333333333333333,0.6,Economic Fluctuations and Growth: Consumption and the Economy,False,True,True
+REAL,300.0,27,0.07780758336313891,0.3333333333333333,0.4444444444444444,Real Estate,False,True,True
+PPL,292.0,25,0.02734820734820734,0.1111111111111111,0.68,Personnel Economics,False,True,True
+URB,287.0,15,0.015993265993265986,0.1111111111111111,0.8666666666666667,Urban Economics,True,False,False
+IO,269.0,27,0.016328630217519104,0.1333333333333333,0.8518518518518519,Industrial Organization,True,False,False
+HC,235.0,22,0.04603994490358126,0.1818181818181818,0.5454545454545454,Health Care,False,True,True
+CRI,221.0,18,0.06269563769563767,0.1818181818181818,0.5555555555555556,Economics of Crime,False,False,True
+POL,212.0,20,0.012179487179487174,0.0833333333333333,0.85,Political Economy,True,False,False
+PRINN,212.0,24,0.003205128205128204,0.0769230769230769,0.9583333333333334,Innovation,True,False,False
+EFG,203.0,27,0.012345679012345675,0.0833333333333333,0.8518518518518519,Economic Growth and Long-Run Macroeconomic Development,True,False,False
+PE,202.0,22,0.09837826315099041,0.25,0.4090909090909091,Public Economics,False,False,True
+HF,197.0,17,0.018827985739750443,0.1,0.7647058823529411,Household Finance,False,False,True
+DEV,194.0,14,0.03922834990946445,0.1052631578947368,0.5,Development Economics,False,False,True
+ED,171.0,24,0.050843253968253954,0.1666666666666666,0.6666666666666666,Economics of Education,False,False,True
+RISK,166.0,18,0.03637566137566137,0.5,0.8333333333333334,Risks of Financial Institutions,True,False,False
+PESS,157.0,25,0.04214285714285713,0.1666666666666666,0.72,Economics of Social Security,False,False,True
+HE,141.0,22,0.044372294372294355,0.1666666666666666,0.7272727272727273,Health Economics,False,False,True
+IPM,137.0,7,0.0,0.0,1.0,Impulse and Propagation Mechanisms,True,False,False
+ENT,135.0,18,0.03306878306878305,0.1666666666666666,0.7777777777777778,Entrepreneurship,False,False,True
+PENS,135.0,20,0.01339285714285714,0.1428571428571428,0.9,Economics of National Security,True,False,False
+EFMM,128.0,9,0.040123456790123455,0.1111111111111111,0.4444444444444444,Micro Data and Macro Models,False,False,True
+MEFM,128.0,16,0.015625,0.25,0.9375,"Macro, Money and Financial Frictions",True,False,False
+MPF,121.0,16,0.04513888888888889,0.25,0.6875,Macro Public Finance,False,False,True
+PRMP,113.0,16,0.025669642857142856,0.2857142857142857,0.875,Macroeconomics and Productivity,True,False,False
+EFSF,100.0,13,0.02197802197802197,0.1428571428571428,0.8461538461538461,Financial Frictions and the Macroeconomy,True,False,False
+EFMB,98.0,14,0.13151927437641722,0.3333333333333333,0.2857142857142857,Macro Within and Across Borders,False,False,True
+EFJK,96.0,16,0.0,0.0,1.0,Economic Fluctuations and Growth Workshop,True,False,False
+GE,96.0,6,0.009803921568627449,0.0588235294117647,0.8333333333333334,Gender in the Economy,True,False,False
+EE,92.0,8,0.03314393939393939,0.1818181818181818,0.75,Environmental Economics,False,False,True
+SIP,85.0,8,0.03928571428571427,0.1428571428571428,0.625,Science of Science Funding,False,False,True
+PRPD,78.0,11,0.035714285714285705,0.1428571428571428,0.7272727272727273,"Productivity, Development, and Entrepreneurship",False,False,True
+PRIPE,77.0,14,0.014285714285714287,0.2,0.9285714285714286,"Productivity, Innovation, and the Economy",True,False,False
+EFEG,71.0,10,0.00833333333333333,0.0833333333333333,0.9,EFG Program Meeting,True,False,False
+EFBEM,70.0,12,0.027777777777777776,0.3333333333333333,0.9166666666666666,Behavioral Macro,True,False,False
+HPC,68.0,7,0.028571428571428574,0.2,0.8571428571428571,Big Data and High-Performance Computing,True,False,False
+ITM,68.0,17,0.0,0.0,1.0,International Trade & Macroeconomics,True,False,False
+EH,65.0,4,0.062076914098972896,0.0714285714285714,0.0,Economics of Health,False,False,True
+PRBB,61.0,11,0.0,0.0,1.0,Productivity and Business Cycles,True,False,False
+PRB,59.0,10,0.01666666666666666,0.1666666666666666,0.9,Productivity and Business,True,False,False
+EFPD,52.0,8,0.16592261904761904,0.3333333333333333,0.25,Price Dynamics,False,False,True
+IFMDS,52.0,11,0.018181818181818184,0.2,0.9090909090909091,IFM Data Session,True,False,False
+IASE,51.0,8,0.015625,0.125,0.875,International Aspects of the U.S. Economy,True,False,False
+DEM,48.0,6,0.0,0.0,1.0,Dynamic Equilibrium Models,True,False,False
+IAP,47.0,7,0.0,0.0,1.0,International Asset Pricing,True,False,False
+PEPF,47.0,7,0.0,0.0,1.0,Public Economics and Public Finance,True,False,False
+CG,44.0,5,0.0654040404040404,0.125,0.4,Corporate Governance,False,False,True
+CRA,39.0,3,0.023809523809523798,0.0714285714285714,0.6666666666666666,Capital and Risk Allocation,False,False,True
+PET,38.0,8,0.09583333333333333,0.2,0.5,Public Economics: Taxation,False,False,True
+PRIO,23.0,3,0.0,0.0,1.0,Industrial Organization and Productivity,True,False,False
+SAV,22.0,4,0.05,0.2,0.75,Saving,False,False,True
+IEG,20.0,3,0.0,0.0,1.0,International Economics and Geopolitics,True,False,False
+CRP,16.0,2,0.24358974358974356,0.3333333333333333,0.0,Corruption and Reform,False,False,True
+CCDF,15.0,1,0.0666666666666666,0.0666666666666666,0.0,Currency Crises: Diagnosis and Frameworks,False,False,True
+CCEF,13.0,1,0.0769230769230769,0.0769230769230769,0.0,Currency Crises: Exchange Rates and Financial Issues,False,False,True
+AMRE,12.0,2,0.0,0.0,1.0,Asset Markets and Real Estate,True,False,False
+EM,12.0,2,0.0,0.0,1.0,Frontier Econometric Methods,True,False,False
+HFC,12.0,1,0.0833333333333333,0.0833333333333333,0.0,Household Finance and Consumption,False,False,True
+SF,11.0,1,0.0909090909090909,0.0909090909090909,0.0,Sustainable Finance,False,False,True
+HY,10.0,1,0.2,0.2,0.0,Economics of Hydrocarbon Infrastructure and Transportation,False,False,True
+LBAPRE,10.0,1,0.0,0.0,1.0,"Labor, Applied Price, and Real-Economy Workshop",True,False,False
+SD,10.0,1,0.2,0.2,0.0,Sovereign Debt,False,False,True
+PRTC,7.0,1,0.1428571428571428,0.1428571428571428,0.0,Productivity and Technical Change,False,False,True
+FMS,6.0,1,0.0,0.0,1.0,Financial Market Structure,True,False,False
+MM,6.0,1,0.0,0.0,1.0,Macroeconomic Models,True,False,False
+SWB,6.0,1,0.1666666666666666,0.1666666666666666,0.0,Subjective Well-Being,False,False,True
+PEC,5.0,1,0.0,0.0,1.0,Public Economics: Corporate Taxation,True,False,False
+GFC,4.0,1,0.25,0.25,0.0,Global Financial Crisis,False,False,True
+HEBNH,3.0,1,0.0,0.0,1.0,Health Economics: Behavioral and New Health,True,False,False
+PRBC,3.0,1,0.3333333333333333,0.3333333333333333,0.0,Health-Care Information Technology,False,False,True

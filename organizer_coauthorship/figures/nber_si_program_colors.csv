@@ -1,0 +1,88 @@
+program_code,program_name,color
+AG,Aging,#009E73
+AMRE,Asset Markets and Real Estate,#EE3377
+AP,Asset Pricing,#888888
+CCDF,Currency Crises: Diagnosis and Frameworks,#0077BB
+CCEF,Currency Crises: Exchange Rates and Financial Issues,#33BBEE
+CF,Corporate Finance,#88CCEE
+CG,Corporate Governance,#661100
+CH,Children and Families,#6699CC
+CRA,Capital and Risk Allocation,#6699CC
+CRI,Economics of Crime,#BBBBBB
+CRIW,Conference on Research in Income and Wealth,#CC79A7
+CRP,Corruption and Reform,#EE7733
+DAE,Development of the American Economy,#E69F00
+DEM,Dynamic Equilibrium Models,#332288
+DEV,Development Economics,#1B9E77
+ED,Economics of Education,#D95F02
+EE,Environmental Economics,#CAB2D6
+EEE,Environmental & Energy Economics,#CC6677
+EFACR,Aggregate Implications of Microeconomic Consumption Behavior,#AA4499
+EFBEM,Behavioral Macro,#E69F00
+EFCE,Economic Fluctuations and Growth: Consumption and the Economy,#DDCC77
+EFDIS,Inequality and the Macroeconomy,#44AA99
+EFEG,EFG Program Meeting,#0072B2
+EFEL,Capital Markets and the Economy,#999933
+EFFE,Forecasting and Empirical Methods,#117733
+EFG,Economic Growth and Long-Run Macroeconomic Development,#7AA6DC
+EFJK,Economic Fluctuations and Growth Workshop,#FDBF6F
+EFMB,Macro Within and Across Borders,#E31A1C
+EFMM,Micro Data and Macro Models,#A6CEE3
+EFMPL,Aggregate Labor Market,#D55E00
+EFPD,Price Dynamics,#44AA99
+EFSF,Financial Frictions and the Macroeconomy,#FB9A99
+EH,Economics of Health,#CC79A7
+EM,Frontier Econometric Methods,#009988
+ENT,Entrepreneurship,#A6761D
+FMS,Financial Market Structure,#1B9E77
+GE,Gender in the Economy,#FF7F00
+GFC,Global Financial Crisis,#66A61E
+HC,Health Care,#009988
+HE,Health Economics,#66A61E
+HEBNH,Health Economics: Behavioral and New Health,#E6AB02
+HF,Household Finance,#8B4513
+HFC,Household Finance and Consumption,#BBBBBB
+HPC,Big Data and High-Performance Computing,#009E73
+HY,Economics of Hydrocarbon Infrastructure and Transportation,#22A884
+IAP,International Asset Pricing,#88CCEE
+IASE,International Aspects of the U.S. Economy,#117733
+IEG,International Economics and Geopolitics,#DDCC77
+IFM,International Finance & Macroeconomics,#332288
+IFMDS,IFM Data Session,#882255
+IO,Industrial Organization,#EE3377
+IPM,Impulse and Propagation Mechanisms,#E6AB02
+ITI,International Trade & Investment,#56B4E9
+ITM,International Trade & Macroeconomics,#D55E00
+LBAPRE,"Labor, Applied Price, and Real-Economy Workshop",#7AA6DC
+LE,Law and Economics,#661100
+LS,Labor Studies,#0072B2
+ME,Monetary Economics,#F0E442
+MEFM,"Macro, Money and Financial Frictions",#1F78B4
+MM,Macroeconomic Models,#D95F02
+MPF,Macro Public Finance,#B2DF8A
+PE,Public Economics,#DAA520
+PEC,Public Economics: Corporate Taxation,#E7298A
+PENS,Economics of National Security,#666666
+PEPF,Public Economics and Public Finance,#AA4499
+PESS,Economics of Social Security,#E7298A
+PET,Public Economics: Taxation,#999933
+POL,Political Economy,#CC3311
+PPL,Personnel Economics,#0077BB
+PRB,Productivity and Business,#F0E442
+PRBB,Productivity and Business Cycles,#56B4E9
+PRBC,Health-Care Information Technology,#A6761D
+PRINN,Innovation,#22A884
+PRIO,Industrial Organization and Productivity,#CC6677
+PRIPE,"Productivity, Innovation, and the Economy",#B15928
+PRIT,Digital Economics and Artificial Intelligence,#882255
+PRMP,Macroeconomics and Productivity,#33A02C
+PRPD,"Productivity, Development, and Entrepreneurship",#FFFF99
+PRTC,Productivity and Technical Change,#8B4513
+REAL,Real Estate,#EE7733
+RISK,Risks of Financial Institutions,#7570B3
+SAV,Saving,#888888
+SD,Sovereign Debt,#DAA520
+SF,Sustainable Finance,#CC3311
+SIP,Science of Science Funding,#6A3D9A
+SWB,Subjective Well-Being,#7570B3
+URB,Urban Economics,#33BBEE

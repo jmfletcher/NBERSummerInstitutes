@@ -1,0 +1,335 @@
+year,program_code,program_name,papers_total,papers_with_program_year_organizer,share,n_years_in_window
+2000,AG,Aging,20.0,2.0,0.1,2
+2001,AG,Aging,29.0,3.0,0.10344827586206896,3
+2002,AG,Aging,28.0,4.0,0.14285714285714285,3
+2003,AG,Aging,46.0,2.0,0.043478260869565216,3
+2004,AG,Aging,65.0,4.0,0.06153846153846154,3
+2005,AG,Aging,82.0,4.0,0.04878048780487805,3
+2006,AG,Aging,77.0,5.0,0.06493506493506493,3
+2007,AG,Aging,78.0,3.0,0.038461538461538464,3
+2008,AG,Aging,81.0,3.0,0.037037037037037035,3
+2009,AG,Aging,90.0,2.0,0.022222222222222223,3
+2010,AG,Aging,93.0,2.0,0.021505376344086023,3
+2011,AG,Aging,99.0,2.0,0.020202020202020204,3
+2012,AG,Aging,98.0,3.0,0.030612244897959183,3
+2013,AG,Aging,95.0,2.0,0.021052631578947368,3
+2014,AG,Aging,86.0,1.0,0.011627906976744186,3
+2015,AG,Aging,83.0,1.0,0.012048192771084338,3
+2016,AG,Aging,83.0,1.0,0.012048192771084338,3
+2017,AG,Aging,92.0,2.0,0.021739130434782608,3
+2018,AG,Aging,78.0,1.0,0.01282051282051282,3
+2019,AG,Aging,61.0,1.0,0.01639344262295082,3
+2020,AG,Aging,44.0,0.0,0.0,3
+2021,AG,Aging,46.0,2.0,0.043478260869565216,3
+2022,AG,Aging,46.0,2.0,0.043478260869565216,3
+2023,AG,Aging,40.0,2.0,0.05,3
+2024,AG,Aging,36.0,1.0,0.027777777777777776,3
+2025,AG,Aging,41.0,3.0,0.07317073170731707,3
+2026,AG,Aging,29.0,3.0,0.10344827586206896,2
+2000,CH,Children and Families,12.0,0.0,0.0,2
+2001,CH,Children and Families,22.0,0.0,0.0,3
+2002,CH,Children and Families,26.0,0.0,0.0,3
+2003,CH,Children and Families,31.0,1.0,0.03225806451612903,3
+2004,CH,Children and Families,21.0,1.0,0.047619047619047616,2
+2008,CH,Children and Families,12.0,1.0,0.08333333333333333,2
+2009,CH,Children and Families,20.0,1.0,0.05,3
+2010,CH,Children and Families,22.0,0.0,0.0,3
+2011,CH,Children and Families,24.0,0.0,0.0,3
+2012,CH,Children and Families,23.0,0.0,0.0,3
+2013,CH,Children and Families,27.0,1.0,0.037037037037037035,3
+2014,CH,Children and Families,34.0,2.0,0.058823529411764705,3
+2015,CH,Children and Families,43.0,2.0,0.046511627906976744,3
+2016,CH,Children and Families,47.0,1.0,0.02127659574468085,3
+2017,CH,Children and Families,48.0,2.0,0.041666666666666664,3
+2018,CH,Children and Families,47.0,2.0,0.0425531914893617,3
+2019,CH,Children and Families,45.0,2.0,0.044444444444444446,3
+2020,CH,Children and Families,45.0,0.0,0.0,3
+2021,CH,Children and Families,51.0,0.0,0.0,3
+2022,CH,Children and Families,58.0,0.0,0.0,3
+2023,CH,Children and Families,64.0,0.0,0.0,3
+2024,CH,Children and Families,67.0,1.0,0.014925373134328358,3
+2025,CH,Children and Families,70.0,1.0,0.014285714285714285,3
+2026,CH,Children and Families,48.0,1.0,0.020833333333333332,2
+2000,CRIW,Conference on Research in Income and Wealth,23.0,3.0,0.13043478260869565,2
+2001,CRIW,Conference on Research in Income and Wealth,39.0,4.0,0.10256410256410256,3
+2002,CRIW,Conference on Research in Income and Wealth,60.0,5.0,0.08333333333333333,3
+2003,CRIW,Conference on Research in Income and Wealth,67.0,6.0,0.08955223880597014,3
+2004,CRIW,Conference on Research in Income and Wealth,63.0,5.0,0.07936507936507936,3
+2005,CRIW,Conference on Research in Income and Wealth,49.0,4.0,0.08163265306122448,3
+2006,CRIW,Conference on Research in Income and Wealth,42.0,4.0,0.09523809523809523,3
+2007,CRIW,Conference on Research in Income and Wealth,45.0,6.0,0.13333333333333333,3
+2008,CRIW,Conference on Research in Income and Wealth,38.0,5.0,0.13157894736842105,3
+2009,CRIW,Conference on Research in Income and Wealth,38.0,5.0,0.13157894736842105,3
+2010,CRIW,Conference on Research in Income and Wealth,35.0,4.0,0.11428571428571428,3
+2011,CRIW,Conference on Research in Income and Wealth,37.0,3.0,0.08108108108108109,3
+2012,CRIW,Conference on Research in Income and Wealth,35.0,2.0,0.05714285714285714,3
+2013,CRIW,Conference on Research in Income and Wealth,34.0,2.0,0.058823529411764705,3
+2014,CRIW,Conference on Research in Income and Wealth,35.0,4.0,0.11428571428571428,3
+2015,CRIW,Conference on Research in Income and Wealth,44.0,5.0,0.11363636363636363,3
+2016,CRIW,Conference on Research in Income and Wealth,50.0,5.0,0.1,3
+2017,CRIW,Conference on Research in Income and Wealth,53.0,4.0,0.07547169811320754,3
+2018,CRIW,Conference on Research in Income and Wealth,52.0,3.0,0.057692307692307696,3
+2019,CRIW,Conference on Research in Income and Wealth,47.0,2.0,0.0425531914893617,3
+2020,CRIW,Conference on Research in Income and Wealth,44.0,1.0,0.022727272727272728,3
+2021,CRIW,Conference on Research in Income and Wealth,42.0,0.0,0.0,3
+2022,CRIW,Conference on Research in Income and Wealth,46.0,1.0,0.021739130434782608,3
+2023,CRIW,Conference on Research in Income and Wealth,50.0,1.0,0.02,3
+2024,CRIW,Conference on Research in Income and Wealth,50.0,1.0,0.02,3
+2025,CRIW,Conference on Research in Income and Wealth,50.0,0.0,0.0,3
+2026,CRIW,Conference on Research in Income and Wealth,32.0,0.0,0.0,2
+2000,DAE,Development of the American Economy,39.0,4.0,0.10256410256410256,2
+2001,DAE,Development of the American Economy,62.0,5.0,0.08064516129032258,3
+2002,DAE,Development of the American Economy,61.0,6.0,0.09836065573770492,3
+2003,DAE,Development of the American Economy,59.0,4.0,0.06779661016949153,3
+2004,DAE,Development of the American Economy,57.0,3.0,0.05263157894736842,3
+2005,DAE,Development of the American Economy,61.0,2.0,0.03278688524590164,3
+2006,DAE,Development of the American Economy,62.0,1.0,0.016129032258064516,3
+2007,DAE,Development of the American Economy,62.0,2.0,0.03225806451612903,3
+2008,DAE,Development of the American Economy,62.0,3.0,0.04838709677419355,3
+2009,DAE,Development of the American Economy,64.0,3.0,0.046875,3
+2010,DAE,Development of the American Economy,65.0,2.0,0.03076923076923077,3
+2011,DAE,Development of the American Economy,62.0,0.0,0.0,3
+2012,DAE,Development of the American Economy,59.0,0.0,0.0,3
+2013,DAE,Development of the American Economy,58.0,1.0,0.017241379310344827,3
+2014,DAE,Development of the American Economy,58.0,2.0,0.034482758620689655,3
+2015,DAE,Development of the American Economy,72.0,2.0,0.027777777777777776,3
+2016,DAE,Development of the American Economy,79.0,1.0,0.012658227848101266,3
+2017,DAE,Development of the American Economy,88.0,1.0,0.011363636363636364,3
+2018,DAE,Development of the American Economy,86.0,2.0,0.023255813953488372,3
+2019,DAE,Development of the American Economy,82.0,2.0,0.024390243902439025,3
+2020,DAE,Development of the American Economy,79.0,1.0,0.012658227848101266,3
+2021,DAE,Development of the American Economy,79.0,1.0,0.012658227848101266,3
+2022,DAE,Development of the American Economy,86.0,1.0,0.011627906976744186,3
+2023,DAE,Development of the American Economy,93.0,2.0,0.021505376344086023,3
+2024,DAE,Development of the American Economy,93.0,1.0,0.010752688172043012,3
+2025,DAE,Development of the American Economy,93.0,2.0,0.021505376344086023,3
+2026,DAE,Development of the American Economy,62.0,1.0,0.016129032258064516,2
+2008,EEE,Environmental & Energy Economics,21.0,1.0,0.047619047619047616,2
+2009,EEE,Environmental & Energy Economics,35.0,2.0,0.05714285714285714,3
+2010,EEE,Environmental & Energy Economics,37.0,2.0,0.05405405405405406,3
+2011,EEE,Environmental & Energy Economics,40.0,2.0,0.05,3
+2012,EEE,Environmental & Energy Economics,39.0,3.0,0.07692307692307693,3
+2013,EEE,Environmental & Energy Economics,39.0,3.0,0.07692307692307693,3
+2014,EEE,Environmental & Energy Economics,40.0,4.0,0.1,3
+2015,EEE,Environmental & Energy Economics,41.0,3.0,0.07317073170731707,3
+2016,EEE,Environmental & Energy Economics,42.0,2.0,0.047619047619047616,3
+2017,EEE,Environmental & Energy Economics,54.0,1.0,0.018518518518518517,3
+2018,EEE,Environmental & Energy Economics,62.0,0.0,0.0,3
+2019,EEE,Environmental & Energy Economics,58.0,0.0,0.0,3
+2020,EEE,Environmental & Energy Economics,56.0,0.0,0.0,3
+2021,EEE,Environmental & Energy Economics,56.0,1.0,0.017857142857142856,3
+2022,EEE,Environmental & Energy Economics,69.0,2.0,0.028985507246376812,3
+2023,EEE,Environmental & Energy Economics,65.0,4.0,0.06153846153846154,3
+2024,EEE,Environmental & Energy Economics,61.0,3.0,0.04918032786885246,3
+2025,EEE,Environmental & Energy Economics,55.0,3.0,0.05454545454545454,3
+2026,EEE,Environmental & Energy Economics,35.0,1.0,0.02857142857142857,2
+2000,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,30.0,3.0,0.1,2
+2001,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,46.0,5.0,0.10869565217391304,3
+2002,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,46.0,4.0,0.08695652173913043,3
+2003,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,45.0,6.0,0.13333333333333333,3
+2004,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,44.0,7.0,0.1590909090909091,3
+2005,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,44.0,6.0,0.13636363636363635,3
+2006,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,45.0,4.0,0.08888888888888889,3
+2007,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,49.0,4.0,0.08163265306122448,3
+2008,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,57.0,3.0,0.05263157894736842,3
+2009,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,62.0,5.0,0.08064516129032258,3
+2010,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,63.0,5.0,0.07936507936507936,3
+2011,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,60.0,6.0,0.1,3
+2012,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,60.0,5.0,0.08333333333333333,3
+2013,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,60.0,2.0,0.03333333333333333,3
+2014,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,60.0,1.0,0.016666666666666666,3
+2015,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,60.0,1.0,0.016666666666666666,3
+2016,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,62.0,3.0,0.04838709677419355,3
+2017,EFACR,Aggregate Implications of Microeconomic Consumption Behavior,42.0,3.0,0.07142857142857142,2
+2000,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,32.0,0.0,0.0,2
+2001,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,49.0,1.0,0.02040816326530612,3
+2002,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,49.0,1.0,0.02040816326530612,3
+2003,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,49.0,2.0,0.04081632653061224,3
+2004,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,47.0,2.0,0.0425531914893617,3
+2005,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,47.0,3.0,0.06382978723404255,3
+2006,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,45.0,2.0,0.044444444444444446,3
+2007,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,45.0,2.0,0.044444444444444446,3
+2008,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,45.0,2.0,0.044444444444444446,3
+2009,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,45.0,4.0,0.08888888888888889,3
+2010,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,45.0,3.0,0.06666666666666667,3
+2011,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,45.0,2.0,0.044444444444444446,3
+2012,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,42.0,0.0,0.0,3
+2013,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,42.0,0.0,0.0,3
+2014,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,42.0,1.0,0.023809523809523808,3
+2015,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,44.0,1.0,0.022727272727272728,3
+2016,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,44.0,1.0,0.022727272727272728,3
+2017,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,44.0,0.0,0.0,3
+2018,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,45.0,0.0,0.0,3
+2019,EFCE,Economic Fluctuations and Growth: Consumption and the Economy,30.0,0.0,0.0,2
+2000,EFDIS,Inequality and the Macroeconomy,31.0,5.0,0.16129032258064516,2
+2001,EFDIS,Inequality and the Macroeconomy,46.0,8.0,0.17391304347826086,3
+2002,EFDIS,Inequality and the Macroeconomy,46.0,6.0,0.13043478260869565,3
+2003,EFDIS,Inequality and the Macroeconomy,45.0,5.0,0.1111111111111111,3
+2004,EFDIS,Inequality and the Macroeconomy,45.0,2.0,0.044444444444444446,3
+2005,EFDIS,Inequality and the Macroeconomy,45.0,3.0,0.06666666666666667,3
+2006,EFDIS,Inequality and the Macroeconomy,47.0,4.0,0.0851063829787234,3
+2007,EFDIS,Inequality and the Macroeconomy,49.0,6.0,0.12244897959183673,3
+2008,EFDIS,Inequality and the Macroeconomy,49.0,6.0,0.12244897959183673,3
+2009,EFDIS,Inequality and the Macroeconomy,47.0,5.0,0.10638297872340426,3
+2010,EFDIS,Inequality and the Macroeconomy,46.0,3.0,0.06521739130434782,3
+2011,EFDIS,Inequality and the Macroeconomy,48.0,3.0,0.0625,3
+2012,EFDIS,Inequality and the Macroeconomy,49.0,4.0,0.08163265306122448,3
+2013,EFDIS,Inequality and the Macroeconomy,49.0,5.0,0.10204081632653061,3
+2014,EFDIS,Inequality and the Macroeconomy,49.0,3.0,0.061224489795918366,3
+2015,EFDIS,Inequality and the Macroeconomy,49.0,1.0,0.02040816326530612,3
+2016,EFDIS,Inequality and the Macroeconomy,49.0,1.0,0.02040816326530612,3
+2017,EFDIS,Inequality and the Macroeconomy,47.0,1.0,0.02127659574468085,3
+2018,EFDIS,Inequality and the Macroeconomy,46.0,2.0,0.043478260869565216,3
+2019,EFDIS,Inequality and the Macroeconomy,36.0,1.0,0.027777777777777776,3
+2020,EFDIS,Inequality and the Macroeconomy,27.0,1.0,0.037037037037037035,3
+2021,EFDIS,Inequality and the Macroeconomy,20.0,0.0,0.0,3
+2022,EFDIS,Inequality and the Macroeconomy,26.0,0.0,0.0,3
+2023,EFDIS,Inequality and the Macroeconomy,32.0,0.0,0.0,3
+2024,EFDIS,Inequality and the Macroeconomy,36.0,0.0,0.0,3
+2025,EFDIS,Inequality and the Macroeconomy,37.0,0.0,0.0,3
+2026,EFDIS,Inequality and the Macroeconomy,25.0,0.0,0.0,2
+2000,EFFE,Forecasting and Empirical Methods,26.0,2.0,0.07692307692307693,2
+2001,EFFE,Forecasting and Empirical Methods,38.0,2.0,0.05263157894736842,3
+2002,EFFE,Forecasting and Empirical Methods,36.0,1.0,0.027777777777777776,3
+2003,EFFE,Forecasting and Empirical Methods,36.0,0.0,0.0,3
+2004,EFFE,Forecasting and Empirical Methods,36.0,1.0,0.027777777777777776,3
+2005,EFFE,Forecasting and Empirical Methods,36.0,1.0,0.027777777777777776,3
+2006,EFFE,Forecasting and Empirical Methods,36.0,2.0,0.05555555555555555,3
+2007,EFFE,Forecasting and Empirical Methods,36.0,1.0,0.027777777777777776,3
+2008,EFFE,Forecasting and Empirical Methods,36.0,1.0,0.027777777777777776,3
+2009,EFFE,Forecasting and Empirical Methods,36.0,0.0,0.0,3
+2010,EFFE,Forecasting and Empirical Methods,36.0,0.0,0.0,3
+2011,EFFE,Forecasting and Empirical Methods,36.0,1.0,0.027777777777777776,3
+2012,EFFE,Forecasting and Empirical Methods,40.0,1.0,0.025,3
+2013,EFFE,Forecasting and Empirical Methods,44.0,1.0,0.022727272727272728,3
+2014,EFFE,Forecasting and Empirical Methods,48.0,0.0,0.0,3
+2015,EFFE,Forecasting and Empirical Methods,48.0,0.0,0.0,3
+2016,EFFE,Forecasting and Empirical Methods,48.0,0.0,0.0,3
+2017,EFFE,Forecasting and Empirical Methods,48.0,1.0,0.020833333333333332,3
+2018,EFFE,Forecasting and Empirical Methods,48.0,1.0,0.020833333333333332,3
+2019,EFFE,Forecasting and Empirical Methods,32.0,1.0,0.03125,2
+2021,EFFE,Forecasting and Empirical Methods,24.0,0.0,0.0,2
+2022,EFFE,Forecasting and Empirical Methods,40.0,0.0,0.0,3
+2023,EFFE,Forecasting and Empirical Methods,48.0,0.0,0.0,3
+2024,EFFE,Forecasting and Empirical Methods,48.0,0.0,0.0,3
+2025,EFFE,Forecasting and Empirical Methods,48.0,1.0,0.020833333333333332,3
+2026,EFFE,Forecasting and Empirical Methods,32.0,1.0,0.03125,2
+2000,EFMPL,Aggregate Labor Market,30.0,3.0,0.1,2
+2001,EFMPL,Aggregate Labor Market,49.0,5.0,0.10204081632653061,3
+2002,EFMPL,Aggregate Labor Market,54.0,4.0,0.07407407407407407,3
+2003,EFMPL,Aggregate Labor Market,58.0,6.0,0.10344827586206896,3
+2004,EFMPL,Aggregate Labor Market,59.0,6.0,0.1016949152542373,3
+2005,EFMPL,Aggregate Labor Market,57.0,8.0,0.14035087719298245,3
+2006,EFMPL,Aggregate Labor Market,61.0,8.0,0.13114754098360656,3
+2007,EFMPL,Aggregate Labor Market,60.0,7.0,0.11666666666666667,3
+2008,EFMPL,Aggregate Labor Market,61.0,4.0,0.06557377049180328,3
+2009,EFMPL,Aggregate Labor Market,57.0,3.0,0.05263157894736842,3
+2010,EFMPL,Aggregate Labor Market,57.0,4.0,0.07017543859649122,3
+2011,EFMPL,Aggregate Labor Market,57.0,4.0,0.07017543859649122,3
+2012,EFMPL,Aggregate Labor Market,58.0,4.0,0.06896551724137931,3
+2013,EFMPL,Aggregate Labor Market,59.0,3.0,0.05084745762711865,3
+2014,EFMPL,Aggregate Labor Market,60.0,3.0,0.05,3
+2015,EFMPL,Aggregate Labor Market,60.0,3.0,0.05,3
+2016,EFMPL,Aggregate Labor Market,60.0,2.0,0.03333333333333333,3
+2017,EFMPL,Aggregate Labor Market,60.0,2.0,0.03333333333333333,3
+2018,EFMPL,Aggregate Labor Market,60.0,1.0,0.016666666666666666,3
+2019,EFMPL,Aggregate Labor Market,49.0,1.0,0.02040816326530612,3
+2020,EFMPL,Aggregate Labor Market,41.0,1.0,0.024390243902439025,3
+2021,EFMPL,Aggregate Labor Market,39.0,1.0,0.02564102564102564,3
+2022,EFMPL,Aggregate Labor Market,48.0,2.0,0.041666666666666664,3
+2023,EFMPL,Aggregate Labor Market,54.0,1.0,0.018518518518518517,3
+2024,EFMPL,Aggregate Labor Market,54.0,1.0,0.018518518518518517,3
+2025,EFMPL,Aggregate Labor Market,54.0,1.0,0.018518518518518517,3
+2026,EFMPL,Aggregate Labor Market,36.0,1.0,0.027777777777777776,2
+2000,HC,Health Care,22.0,0.0,0.0,2
+2001,HC,Health Care,32.0,1.0,0.03125,3
+2002,HC,Health Care,31.0,1.0,0.03225806451612903,3
+2003,HC,Health Care,29.0,1.0,0.034482758620689655,3
+2004,HC,Health Care,29.0,0.0,0.0,3
+2005,HC,Health Care,20.0,0.0,0.0,2
+2007,HC,Health Care,20.0,1.0,0.05,2
+2008,HC,Health Care,32.0,2.0,0.0625,3
+2009,HC,Health Care,34.0,2.0,0.058823529411764705,3
+2010,HC,Health Care,34.0,3.0,0.08823529411764706,3
+2011,HC,Health Care,34.0,2.0,0.058823529411764705,3
+2012,HC,Health Care,29.0,2.0,0.06896551724137931,3
+2013,HC,Health Care,30.0,1.0,0.03333333333333333,3
+2014,HC,Health Care,30.0,2.0,0.06666666666666667,3
+2015,HC,Health Care,35.0,3.0,0.08571428571428572,3
+2016,HC,Health Care,36.0,2.0,0.05555555555555555,3
+2017,HC,Health Care,40.0,3.0,0.075,3
+2018,HC,Health Care,41.0,3.0,0.07317073170731707,3
+2019,HC,Health Care,35.0,3.0,0.08571428571428572,3
+2020,HC,Health Care,27.0,1.0,0.037037037037037035,3
+2021,HC,Health Care,26.0,1.0,0.038461538461538464,3
+2022,HC,Health Care,19.0,1.0,0.05263157894736842,2
+2002,PPL,Personnel Economics,23.0,1.0,0.043478260869565216,2
+2003,PPL,Personnel Economics,42.0,1.0,0.023809523809523808,3
+2004,PPL,Personnel Economics,41.0,2.0,0.04878048780487805,3
+2005,PPL,Personnel Economics,38.0,2.0,0.05263157894736842,3
+2006,PPL,Personnel Economics,29.0,2.0,0.06896551724137931,3
+2007,PPL,Personnel Economics,30.0,1.0,0.03333333333333333,3
+2008,PPL,Personnel Economics,30.0,0.0,0.0,3
+2009,PPL,Personnel Economics,31.0,1.0,0.03225806451612903,3
+2010,PPL,Personnel Economics,31.0,2.0,0.06451612903225806,3
+2011,PPL,Personnel Economics,32.0,2.0,0.0625,3
+2012,PPL,Personnel Economics,32.0,1.0,0.03125,3
+2013,PPL,Personnel Economics,31.0,0.0,0.0,3
+2014,PPL,Personnel Economics,30.0,0.0,0.0,3
+2015,PPL,Personnel Economics,30.0,0.0,0.0,3
+2016,PPL,Personnel Economics,31.0,0.0,0.0,3
+2017,PPL,Personnel Economics,33.0,0.0,0.0,3
+2018,PPL,Personnel Economics,31.0,0.0,0.0,3
+2019,PPL,Personnel Economics,30.0,0.0,0.0,3
+2020,PPL,Personnel Economics,32.0,0.0,0.0,3
+2021,PPL,Personnel Economics,38.0,1.0,0.02631578947368421,3
+2022,PPL,Personnel Economics,44.0,2.0,0.045454545454545456,3
+2023,PPL,Personnel Economics,44.0,2.0,0.045454545454545456,3
+2024,PPL,Personnel Economics,45.0,1.0,0.022222222222222223,3
+2025,PPL,Personnel Economics,44.0,1.0,0.022727272727272728,3
+2026,PPL,Personnel Economics,30.0,1.0,0.03333333333333333,2
+2009,PRIT,Digital Economics and Artificial Intelligence,12.0,0.0,0.0,2
+2010,PRIT,Digital Economics and Artificial Intelligence,29.0,1.0,0.034482758620689655,3
+2011,PRIT,Digital Economics and Artificial Intelligence,40.0,3.0,0.075,3
+2012,PRIT,Digital Economics and Artificial Intelligence,52.0,3.0,0.057692307692307696,3
+2013,PRIT,Digital Economics and Artificial Intelligence,53.0,3.0,0.05660377358490566,3
+2014,PRIT,Digital Economics and Artificial Intelligence,54.0,1.0,0.018518518518518517,3
+2015,PRIT,Digital Economics and Artificial Intelligence,58.0,1.0,0.017241379310344827,3
+2016,PRIT,Digital Economics and Artificial Intelligence,58.0,0.0,0.0,3
+2017,PRIT,Digital Economics and Artificial Intelligence,64.0,2.0,0.03125,3
+2018,PRIT,Digital Economics and Artificial Intelligence,63.0,4.0,0.06349206349206349,3
+2019,PRIT,Digital Economics and Artificial Intelligence,76.0,5.0,0.06578947368421052,3
+2020,PRIT,Digital Economics and Artificial Intelligence,89.0,4.0,0.0449438202247191,3
+2021,PRIT,Digital Economics and Artificial Intelligence,96.0,2.0,0.020833333333333332,3
+2022,PRIT,Digital Economics and Artificial Intelligence,88.0,2.0,0.022727272727272728,3
+2023,PRIT,Digital Economics and Artificial Intelligence,75.0,2.0,0.02666666666666667,3
+2024,PRIT,Digital Economics and Artificial Intelligence,72.0,3.0,0.041666666666666664,3
+2025,PRIT,Digital Economics and Artificial Intelligence,77.0,3.0,0.03896103896103896,3
+2026,PRIT,Digital Economics and Artificial Intelligence,53.0,2.0,0.03773584905660377,2
+2000,REAL,Real Estate,11.0,3.0,0.2727272727272727,2
+2001,REAL,Real Estate,17.0,4.0,0.23529411764705882,3
+2002,REAL,Real Estate,18.0,4.0,0.2222222222222222,3
+2003,REAL,Real Estate,21.0,3.0,0.14285714285714285,3
+2004,REAL,Real Estate,25.0,2.0,0.08,3
+2005,REAL,Real Estate,29.0,3.0,0.10344827586206896,3
+2006,REAL,Real Estate,30.0,2.0,0.06666666666666667,3
+2007,REAL,Real Estate,31.0,4.0,0.12903225806451613,3
+2008,REAL,Real Estate,30.0,2.0,0.06666666666666667,3
+2009,REAL,Real Estate,26.0,2.0,0.07692307692307693,3
+2010,REAL,Real Estate,25.0,1.0,0.04,3
+2011,REAL,Real Estate,19.0,1.0,0.05263157894736842,3
+2012,REAL,Real Estate,23.0,2.0,0.08695652173913043,3
+2013,REAL,Real Estate,25.0,2.0,0.08,3
+2014,REAL,Real Estate,35.0,3.0,0.08571428571428572,3
+2015,REAL,Real Estate,35.0,2.0,0.05714285714285714,3
+2016,REAL,Real Estate,35.0,1.0,0.02857142857142857,3
+2017,REAL,Real Estate,36.0,1.0,0.027777777777777776,3
+2018,REAL,Real Estate,38.0,1.0,0.02631578947368421,3
+2019,REAL,Real Estate,40.0,3.0,0.075,3
+2020,REAL,Real Estate,44.0,4.0,0.09090909090909091,3
+2021,REAL,Real Estate,48.0,4.0,0.08333333333333333,3
+2022,REAL,Real Estate,51.0,2.0,0.0392156862745098,3
+2023,REAL,Real Estate,50.0,0.0,0.0,3
+2024,REAL,Real Estate,52.0,1.0,0.019230769230769232,3
+2025,REAL,Real Estate,51.0,1.0,0.0196078431372549,3
+2026,REAL,Real Estate,34.0,1.0,0.029411764705882353,2

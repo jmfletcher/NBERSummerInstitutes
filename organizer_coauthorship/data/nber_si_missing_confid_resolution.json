@@ -1,0 +1,291 @@
+{
+  "2020-CRIW": {
+    "slug_url": "https://www.nber.org/conferences/si-2020-conference-research-income-and-wealth",
+    "conf_ids": [
+      "SI20PRCR"
+    ],
+    "title": "SI 2020 Conference on Research in Income and Wealth"
+  },
+  "2020-EFG": {
+    "slug_url": "https://www.nber.org/conferences/si-2020-economic-growth",
+    "conf_ids": [
+      "SI20EFEG"
+    ],
+    "title": "SI 2020 Economic Growth"
+  },
+  "2020-PESS": {
+    "slug_url": "https://www.nber.org/conferences/si-2020-economics-social-security",
+    "conf_ids": [
+      "SI20ESS"
+    ],
+    "title": "SI 2020 Economics of Social Security"
+  },
+  "2020-ENT": {
+    "slug_url": "https://www.nber.org/conferences/si-2020-entrepreneurship",
+    "conf_ids": [
+      "SI20PRENT"
+    ],
+    "title": "SI 2020 Entrepreneurship"
+  },
+  "2020-IPM": {
+    "slug_url": "https://www.nber.org/conferences/si-2020-impulse-and-propagation-mechanisms",
+    "conf_ids": [
+      "SI20EFCE"
+    ],
+    "title": "SI 2020 Impulse and Propagation Mechanisms"
+  },
+  "2020-SIP": {
+    "slug_url": "https://www.nber.org/conferences/si-2020-science-science-funding",
+    "conf_ids": [
+      "SI20PRSF"
+    ],
+    "title": "SI 2020 Science of Science Funding"
+  },
+  "2021-CRIW": {
+    "slug_url": "https://www.nber.org/conferences/si-2021-conference-research-income-and-wealth",
+    "conf_ids": [
+      "SI21PRCR"
+    ],
+    "title": "SI 2021 Conference on Research in Income and Wealth"
+  },
+  "2021-DEM": {
+    "slug_url": "https://www.nber.org/conferences/si-2021-dynamic-equilibrium-models",
+    "conf_ids": [
+      "SI21EFSF"
+    ],
+    "title": "SI 2021 Dynamic Equilibrium Models"
+  },
+  "2021-EFG": {
+    "slug_url": "https://www.nber.org/conferences/si-2021-economic-growth",
+    "conf_ids": [
+      "SI21EFEG"
+    ],
+    "title": "SI 2021 Economic Growth"
+  },
+  "2021-PESS": {
+    "slug_url": "https://www.nber.org/conferences/si-2021-economics-social-security",
+    "conf_ids": [
+      "SI21ESS"
+    ],
+    "title": "SI 2021 Economics of Social Security"
+  },
+  "2021-ENT": {
+    "slug_url": "https://www.nber.org/conferences/si-2021-entrepreneurship",
+    "conf_ids": [
+      "SI21PRENT"
+    ],
+    "title": "SI 2021 Entrepreneurship"
+  },
+  "2021-IPM": {
+    "slug_url": "https://www.nber.org/conferences/si-2021-impulse-and-propagation-mechanisms",
+    "conf_ids": [
+      "SI21EFCE"
+    ],
+    "title": "SI 2021 Impulse and Propagation Mechanisms"
+  },
+  "2021-SIP": {
+    "slug_url": "https://www.nber.org/conferences/si-2021-science-science-funding",
+    "conf_ids": [
+      "SI21PRSF"
+    ],
+    "title": "SI 2021 Science of Science Funding"
+  },
+  "2022-CRIW": {
+    "slug_url": "https://www.nber.org/conferences/si-2022-conference-research-income-and-wealth",
+    "conf_ids": [
+      "SI22PRCR"
+    ],
+    "title": "SI 2022 Conference on Research in Income and Wealth"
+  },
+  "2022-DEM": {
+    "slug_url": "https://www.nber.org/conferences/si-2022-dynamic-equilibrium-models",
+    "conf_ids": [
+      "SI22EFSF"
+    ],
+    "title": "SI 2022 Dynamic Equilibrium Models"
+  },
+  "2022-EFG": {
+    "slug_url": "https://www.nber.org/conferences/si-2022-economic-growth",
+    "conf_ids": [
+      "SI22EFEG"
+    ],
+    "title": "SI 2022 Economic Growth"
+  },
+  "2022-PESS": {
+    "slug_url": "https://www.nber.org/conferences/si-2022-economics-social-security",
+    "conf_ids": [
+      "SI22ESS"
+    ],
+    "title": "SI 2022 Economics of Social Security"
+  },
+  "2022-ENT": {
+    "slug_url": "https://www.nber.org/conferences/si-2022-entrepreneurship",
+    "conf_ids": [
+      "SI22PRENT"
+    ],
+    "title": "SI 2022 Entrepreneurship"
+  },
+  "2022-IPM": {
+    "slug_url": "https://www.nber.org/conferences/si-2022-impulse-and-propagation-mechanisms",
+    "conf_ids": [
+      "SI22EFCE"
+    ],
+    "title": "SI 2022 Impulse and Propagation Mechanisms"
+  },
+  "2022-SIP": {
+    "slug_url": "https://www.nber.org/conferences/si-2022-science-science-funding",
+    "conf_ids": [
+      "SI22SF"
+    ],
+    "title": "SI 2022 Science of Science Funding"
+  },
+  "2023-CRIWPC": {
+    "status": "no_slug"
+  },
+  "2023-CRIW": {
+    "slug_url": "https://www.nber.org/conferences/si-2023-conference-research-income-and-wealth",
+    "conf_ids": [
+      "SI23PRCR"
+    ],
+    "title": "SI 2023 Conference on Research in Income and Wealth"
+  },
+  "2023-DEM": {
+    "slug_url": "https://www.nber.org/conferences/si-2023-workshop-methods-and-applications-dynamic-equilibrium-models",
+    "conf_ids": [
+      "SI23EFSF"
+    ],
+    "title": "SI 2023 Workshop on Methods and Applications for Dynamic Equilibrium Models"
+  },
+  "2023-EFG": {
+    "slug_url": "https://www.nber.org/conferences/si-2023-economic-growth",
+    "conf_ids": [
+      "SI23EFEG"
+    ],
+    "title": "SI 2023 Economic Growth"
+  },
+  "2023-PESS": {
+    "slug_url": "https://www.nber.org/conferences/si-2023-economics-social-security",
+    "conf_ids": [
+      "SI23ESS"
+    ],
+    "title": "SI 2023 Economics of Social Security"
+  },
+  "2023-ENT": {
+    "slug_url": "https://www.nber.org/conferences/si-2023-entrepreneurship",
+    "conf_ids": [
+      "SI23PRENT"
+    ],
+    "title": "SI 2023 Entrepreneurship"
+  },
+  "2023-IPM": {
+    "slug_url": "https://www.nber.org/conferences/si-2023-impulse-and-propagation-mechanisms",
+    "conf_ids": [
+      "SI23EFCE"
+    ],
+    "title": "SI 2023 Impulse and Propagation Mechanisms"
+  },
+  "2023-SIP": {
+    "slug_url": "https://www.nber.org/conferences/si-2023-science-science-funding",
+    "conf_ids": [
+      "SI23SF"
+    ],
+    "title": "SI 2023 Science of Science Funding"
+  },
+  "2024-CRIWPC": {
+    "status": "no_slug"
+  },
+  "2024-CRIW": {
+    "slug_url": "https://www.nber.org/conferences/si-2024-conference-research-income-and-wealth",
+    "conf_ids": [
+      "SI24PRCR"
+    ],
+    "title": "SI 2024 Conference on Research in Income and Wealth"
+  },
+  "2024-DEM": {
+    "slug_url": "https://www.nber.org/conferences/si-2024-workshop-methods-and-applications-dynamic-equilibrium-models",
+    "conf_ids": [
+      "SI24EFSF"
+    ],
+    "title": "SI 2024 Workshop on Methods and Applications for Dynamic Equilibrium Models"
+  },
+  "2024-EFG": {
+    "slug_url": "https://www.nber.org/conferences/si-2024-economic-growth",
+    "conf_ids": [
+      "SI24EFEG"
+    ],
+    "title": "SI 2024 Economic Growth"
+  },
+  "2024-PESS": {
+    "slug_url": "https://www.nber.org/conferences/si-2024-economics-social-security",
+    "conf_ids": [
+      "SI24ESS"
+    ],
+    "title": "SI 2024 Economics of Social Security"
+  },
+  "2024-ENT": {
+    "slug_url": "https://www.nber.org/conferences/si-2024-entrepreneurship",
+    "conf_ids": [
+      "SI24PRENT"
+    ],
+    "title": "SI 2024 Entrepreneurship"
+  },
+  "2024-IPM": {
+    "slug_url": "https://www.nber.org/conferences/si-2024-impulse-and-propagation-mechanisms",
+    "conf_ids": [
+      "SI24EFCE"
+    ],
+    "title": "SI 2024 Impulse and Propagation Mechanisms"
+  },
+  "2024-SIP": {
+    "slug_url": "https://www.nber.org/conferences/si-2024-science-science-funding",
+    "conf_ids": [
+      "SI24SF"
+    ],
+    "title": "SI 2024 Science of Science Funding"
+  },
+  "2025-CRIWPC": {
+    "status": "no_slug"
+  },
+  "2025-CRIW": {
+    "slug_url": "https://www.nber.org/conferences/si-2025-conference-research-income-and-wealth",
+    "conf_ids": [
+      "SI25PRCR"
+    ],
+    "title": "SI 2025 Conference on Research in Income and Wealth"
+  },
+  "2025-DEM": {
+    "slug_url": "https://www.nber.org/conferences/si-2025-workshop-methods-and-applications-dynamic-equilibrium-models",
+    "conf_ids": [
+      "SI25EFSF"
+    ],
+    "title": "SI 2025 Workshop on Methods and Applications for Dynamic Equilibrium Models"
+  },
+  "2025-PESS": {
+    "slug_url": "https://www.nber.org/conferences/si-2025-economics-social-security",
+    "conf_ids": [
+      "SI25ESS"
+    ],
+    "title": "SI 2025 Economics of Social Security"
+  },
+  "2025-ENT": {
+    "slug_url": "https://www.nber.org/conferences/si-2025-entrepreneurship",
+    "conf_ids": [
+      "SI25PRENT"
+    ],
+    "title": "SI 2025 Entrepreneurship"
+  },
+  "2025-IPM": {
+    "slug_url": "https://www.nber.org/conferences/si-2025-impulse-and-propagation-mechanisms",
+    "conf_ids": [
+      "SI25EFCE"
+    ],
+    "title": "SI 2025 Impulse and Propagation Mechanisms"
+  },
+  "2025-SIP": {
+    "slug_url": "https://www.nber.org/conferences/si-2025-science-science-funding",
+    "conf_ids": [
+      "SI25SF"
+    ],
+    "title": "SI 2025 Science of Science Funding"
+  }
+}

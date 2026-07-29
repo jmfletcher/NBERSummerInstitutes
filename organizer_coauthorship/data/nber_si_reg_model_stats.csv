@@ -1,0 +1,5 @@
+spec,formula,estimator,weights,N,R2,R2_adj,n_params,cluster,depvar
+1_program_FE_year_FE,share ~ C(program_code) + C(year),OLS,none,1179,0.31598993352456306,0.24412396031138395,113,program_code,share (0-1)
+1w_program_FE_year_FE,share ~ C(program_code) + C(year),WLS,papers_total,1179,0.2913243367046455,0.21686685613327616,113,program_code,share (0-1)
+2_program_FE_year_FE_program_time,share ~ C(program_code) + C(year) + C(program_code):t,OLS,none,1179,0.39968815986378925,0.28927904755733036,200,program_code,share (0-1)
+2w_program_FE_year_FE_program_time,share ~ C(program_code) + C(year) + C(program_code):t,WLS,papers_total,1179,0.39024275809779596,0.27809645129568206,200,program_code,share (0-1)
